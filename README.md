@@ -17,7 +17,7 @@ var capa_temperatura = L.imageOverlay("https://raw.githubusercontent.com/tpb729-
 ).addTo(mapa);
 ```
 
-Puede un mapa completo en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-capas-raster/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-capas-raster/).
+Puede ver un mapa completo con capas raster en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-capas-raster/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-capas-raster/).
 
 **Ejercicios**  
 1. Agregue una capa raster adicional al mapa del ejemplo. Puede utiilizar las capas disponibles en [https://github.com/tpb729-desarrollosigweb-2021/datos/tree/main/worldclim](https://github.com/tpb729-desarrollosigweb-2021/datos/tree/main/worldclim).
